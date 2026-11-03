@@ -41,7 +41,7 @@
 *   🐾 **[Sistema de Gestión de Citas Veterinarias](https://github.com/lesg14/veterinary-system):** Arquitectura moderna empleando Django, Next.js, PostgreSQL y agentes de IA. Documentado con ADR.
 
 **Desarrollo Web (Sitios a Medida):**
-*   🌐 **[LS Solutions Website](https://github.com/lesg14/ls-solutions-website):** Sitio web corporativo para mi empresa de servicios tecnológicos y desarrollo.
+*   🌐 **[LS Solutions Website](https://ls-solutions-website.vercel.app/)** ([código fuente](https://github.com/lesg14/ls-solutions-website)): Sitio web corporativo para mi empresa de servicios tecnológicos y desarrollo.
 *   💪 **[Passion Fitness Website](https://github.com/lesg14/passion-fitness-website):** Plataforma web desarrollada para la gestión y promoción del gimnasio Pasión Fitness.
 
 **Otros Repositorios Académicos (UFPS):**
