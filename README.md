@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados (LS SOLUTIONS & Institucionales)
+## 🚀 Proyectos Destacados
 
 **Arquitectura y Sistemas Complejos:**
 *   🏫 **Sistema de Información Unificada de Convivencia Escolar (PUCE):** Sistema desarrollado para la Secretaría de Educación, unificando la interfaz de gestión para SAC y SIUCE mediante transcripción manual y bases de datos independientes.
@@ -55,8 +55,4 @@
 ---
 
 ## 📫 Contacto
-
-- 𝕏 X (Twitter): [@l_sotto1423](https://x.com/l_sotto1423)
 - 📧 Correo: [luis.sotto1423@gmail.com]
-
-*(Desarrollado por **LS SOLUTIONS**)*
