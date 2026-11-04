@@ -13,8 +13,10 @@
 **Lenguajes y Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -24,6 +26,7 @@
 
 **Flujo de Trabajo e IA:**
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 <br>
@@ -41,7 +44,7 @@
 *   🐾 **[Sistema de Gestión de Citas Veterinarias](https://github.com/lesg14/veterinary-system):** Arquitectura moderna empleando Django, Next.js, PostgreSQL y agentes de IA. Documentado con ADR.
 
 **Desarrollo Web (Sitios a Medida):**
-*   🌐 **[LS Solutions Website](https://ls-solutions-website.vercel.app/)** ([código fuente](https://github.com/lesg14/ls-solutions-website)): Sitio web corporativo para mi empresa de servicios tecnológicos y desarrollo.
+*   🌐 **LS Solutions Website** ([despliegue](https://ls-solutions-website.vercel.app/) | [código fuente](https://github.com/lesg14/ls-solutions-website)): Sitio web corporativo para mi empresa de servicios tecnológicos y desarrollo.
 *   💪 **[Passion Fitness Website](https://github.com/lesg14/passion-fitness-website):** Plataforma web desarrollada para la gestión y promoción del gimnasio Pasión Fitness.
 
 **Otros Repositorios Académicos (UFPS):**
